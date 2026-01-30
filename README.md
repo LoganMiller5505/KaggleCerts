@@ -8,7 +8,7 @@
 
 | Course | Progress |
 |---|---|
-| [Pandas](https://www.kaggle.com/learn/pandas) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;"> 
+| [Pandas](https://www.kaggle.com/learn/pandas) | <img src="https://progress-bar.xyz/17" style="vertical-align: middle; height: 1.2em;"> 
 | [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
