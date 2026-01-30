@@ -59,3 +59,12 @@ GROUP BY breaks the data into a different group for each license, before COUNTin
 ORDER BY number_of_files DESC
 ```
 Sorts the results so that licenses with more files appear first
+
+---
+LIKE tag can be used to further filter strings
+```sql
+SELECT id, title, owner_user_id
+FROM `bigquery-public-data.stackoverflow.posts_questions`
+WHERE tags LIKE '%bigquery%'
+```
+The % acts as a "wildcard" for any amount of characters

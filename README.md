@@ -1,16 +1,17 @@
 # Kaggle Certs
 
+## Completed
+
+<img src="CompletedCerts/IntroToSQL.png" alt="SQL Cert" width="70%">
+
 ## In Progress
 
 | Course | Progress |
 |---|---|
-| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | <img src="https://progress-bar.xyz/92" style="vertical-align: middle; height: 1.2em;"> |
+| [Pandas](https://www.kaggle.com/learn/pandas) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;"> 
+| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
-
-[Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
-
-[Pandas](https://www.kaggle.com/learn/pandas)
 
 [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
