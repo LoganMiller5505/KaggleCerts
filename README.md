@@ -2,7 +2,9 @@
 
 ## In Progress
 
-[Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+| Course | Progress |
+|---|---|
+| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | <img src="https://progress-bar.xyz/92" style="vertical-align: middle; height: 1.2em;"> |
 
 ## Planned
 
