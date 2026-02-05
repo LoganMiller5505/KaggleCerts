@@ -1,34 +1,34 @@
 groupby() groups data and then does something specific to the entire group the data is in.
 
 You can replicate `value_count()` using
-```
+```python
 reviews.groupby('points').points.count()
 ```
 In this example, `groupby()` created a group of reviews which grouped wines by points values and counted how many were in each group. 
 
 This works with any summary function, for example, to get the cheapest wine in each point category, use
-```
+```python
 reviews.groupby('points').price.min()
 ```
 ---
 Each group can be seen as a "slice" of the DataFrame containing only matching values. This DataFrame is accessible using the `apply()` method, and can then be manipulated.
 
 Example: Selecting the name of the first wine reviewed from each winery
-```
+```python
 reviews.groupby('winery').apply(lambda df: df.title.iloc[0])
 ```
 
 You can even group by more than one column
 
 Example: Picking the best wine by country and province
-```
-reviews.groupby(['country','province']).apple(lambda df: df.loc[df.points.idmax()])
+```python
+reviews.groupby(['country','province']).apply(lambda df: df.loc[df.points.idmax()])
 ```
 ---
 agg() lets you run several different functions on the DataFrame simultaneously
 
 Example: Generate a simple statistical summary
-```
+```python
 reviews.groupby(['country']).price.egg([len, min, max])
 ```
 ---

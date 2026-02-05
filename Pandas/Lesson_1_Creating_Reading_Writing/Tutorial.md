@@ -30,21 +30,21 @@ A series is essentially a single column of a DataFrame (or a DataFrame is just m
 
 ---
 It is possible to load a DataFrame from a .csv file using
-```
+```python
 df = pd.read_csv("../input/path/to/data/data.csv")
 ```
 You also can optionally specify many parameters, including what column to use as an index
-```
+```python
 df = pd.read_csv("../input/path/to/data/data.csv", index_col = 0)
 ```
 ---
 You can view the shape of a DataFrame using
-```
+```python
 df.shape()
 ```
 ---
 You can examine the first 5 rows of a DataFrame using
-```
+```python
 df.head()
 ```
 ---

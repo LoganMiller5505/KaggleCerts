@@ -10,13 +10,13 @@
 map() takes in a function that expects a single value from the Series and returns a transformed version of that value. map() then returns a new Series where all the values have been transformed by the function
 
 Example: Remeans the scores to 0
-```
+```python
 review_points_mean = review.points.mean()
 reviews.points.map(lambda p: p - review_points_mean)
 ```
 ---
 apply() is an equivalent method for transforming an entire DataFrame by calling the custom method on each row
-```
+```python
 def remean_points(row):
     row.points = row.points - review_points_mean
     return row
