@@ -10,7 +10,7 @@
 
 | Course | Progress |
 |---|---|
-| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | <img src="https://progress-bar.xyz/20" style="vertical-align: middle; height: 1.2em;">
 | [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
