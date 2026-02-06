@@ -1,24 +1,19 @@
 # Kaggle Certs
 
 ## Completed
-
-<img src="CompletedCerts/IntroToSQL.png" alt="Intro to SQL Cert" width="70%">
-
-<img src="CompletedCerts/Pandas.png" alt="Pandas Cert" width="70%">
-
-<img src="CompletedCerts/DataCleaning.png" alt="Data Cleaning Cert" width="70%">
+|   |   |
+|---|---|
+|<img src="CompletedCerts/Pandas.png" alt="Pandas Cert" width="100%"> | <img src="CompletedCerts/DataCleaning.png" alt="Data Cleaning Cert" width="100%">
+| <img src="CompletedCerts/IntroToSQL.png" alt="Intro to SQL Cert" width="100%"> | <img src="CompletedCerts/AdvancedSQL.png" alt="Intro to SQL Cert" width="100%">
 
 ## In Progress
 
 | Course | Progress |
 |---|---|
-| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
-
-[Data Visualization](https://www.kaggle.com/learn/data-visualization)
-
-[Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
 
 [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
