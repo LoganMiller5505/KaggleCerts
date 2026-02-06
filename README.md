@@ -12,7 +12,7 @@
 
 | Course | Progress |
 |---|---|
-| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | <img src="https://progress-bar.xyz/13" style="vertical-align: middle; height: 1.2em;">
+| [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | <img src="https://progress-bar.xyz/50" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
 
