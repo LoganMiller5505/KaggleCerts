@@ -11,7 +11,7 @@
 
 | Course | Progress |
 |---|---|
-| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | <img src="https://progress-bar.xyz/23" style="vertical-align: middle; height: 1.2em;">
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
