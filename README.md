@@ -10,7 +10,7 @@
 
 | Course | Progress |
 |---|---|
-| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | <img src="https://progress-bar.xyz/27" style="vertical-align: middle; height: 1.2em;">
 | [Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
