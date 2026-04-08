@@ -16,6 +16,10 @@
 
 ## Planned
 
+[Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+
+[Time Series](https://www.kaggle.com/learn/time-series)
+
 [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 
 [Computer Vision](https://www.kaggle.com/learn/computer-vision)
