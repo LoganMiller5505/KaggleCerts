@@ -12,7 +12,7 @@
 
 | Course | Progress |
 |---|---|
-| [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability) | <img src="https://progress-bar.xyz/67" style="vertical-align: middle; height: 1.2em;">
 | [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 | [Time Series](https://www.kaggle.com/learn/time-series) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
