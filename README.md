@@ -11,7 +11,7 @@
 
 | Course | Progress |
 |---|---|
-| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) | <img src="https://progress-bar.xyz/43" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
 
