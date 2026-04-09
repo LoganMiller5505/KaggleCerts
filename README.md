@@ -12,7 +12,7 @@
 
 | Course | Progress |
 |---|---|
-| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) | <img src="https://progress-bar.xyz/27" style="vertical-align: middle; height: 1.2em;">
 | [Time Series](https://www.kaggle.com/learn/time-series) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
