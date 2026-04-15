@@ -13,7 +13,7 @@
 
 | Course | Progress |
 |---|---|
-| [Time Series](https://www.kaggle.com/learn/time-series) | <img src="https://progress-bar.xyz/0" style="vertical-align: middle; height: 1.2em;">
+| [Time Series](https://www.kaggle.com/learn/time-series) | <img src="https://progress-bar.xyz/33" style="vertical-align: middle; height: 1.2em;">
 
 ## Planned
 
